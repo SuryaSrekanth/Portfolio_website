@@ -72,7 +72,7 @@ const Contact = () => {
     {
       icon: Linkedin,
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/surya-srekanth-a-6000ab127/",
+      url: "https://www.linkedin.com/in/surya-srekanth",
       color: "hover:text-blue-600"
     },
     {
